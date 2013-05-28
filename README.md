@@ -1,10 +1,15 @@
 Django Tastiepie Example
 ========================
 
+**Instructions**
+
 
 1. Install the requirements `pip install -r requirements.txt` (of course in your virtual env!)
 2. Run the server `python manage.py runserver`
 3. Go to http://127.0.0.1:8000/api/person/?format=json
+
+
+**Instrucciones**
 
 
 1. Instala los requisitos `pip install -r requirements.txt` (por su puesto en tu virtual env!)
